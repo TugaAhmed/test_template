@@ -1,0 +1,6 @@
+{
+  "team": "team1",
+  "model": "gnn",
+  "llm_name": "no",
+  "notes": "baseline"
+}
