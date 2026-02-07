@@ -1,0 +1,6 @@
+{
+  "team": "example_team",
+  "model": "llm-only",
+  "llm_name": "gpt-x",
+  "notes": "Temporal GNN with class weighting"
+}
